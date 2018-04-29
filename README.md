@@ -301,7 +301,7 @@ If you prefer to use a more lightweight installation procedure than Anaconda, fi
 
 ### running-notebooks
 
-To view interactive content or to modify elements within the IPython notebooks, you must first clone or download the repository then run the ipython notebook.  More information on IPython Notebooks can be found [here.](http://ipython.org/notebook.html)
+To view interactive content or to modify elements within the IPython notebooks, you must first clone or download the repository then run the notebook.  More information on IPython Notebooks can be found [here.](http://ipython.org/notebook.html)
 
 ```
 $ git clone https://github.com/donnemartin/data-science-ipython-notebooks.git
